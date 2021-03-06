@@ -1,4 +1,4 @@
-import { hackerSpeak } from './8-hacker-speak'
+ import { hackerSpeak } from './8-hacker-speak'
 
 describe('8-hacker-speak', () => {
   it("should replace all 'a's with 4, 'e's with 3, 'i's with 1, 'o's with 0, and 's's with 5", () => {
